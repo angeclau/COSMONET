@@ -3,6 +3,7 @@ We propose new multistage computational-statistical strategies based on screenin
 In our previous studies [1,2], we showed the advantages of such approaches with respect to classical penalized cox-regression methods.
 
 References
-[1] Iuliano et al. (2018). Combining pathway identification and breast cancer survival prediction via screening-network methods. {\it Frontiers in genetics}. 9.}
 
-[2] Iuliano et al. (2016). Cancer markers selection using network-based Cox regression: A methodological and computational practice. {\it Frontiers in physiology}, 7, 208.
+[1] Iuliano et al. (2018). Combining pathway identification and breast cancer survival prediction via screening-network methods. Frontiers in genetics. 9.
+
+[2] Iuliano et al. (2016). Cancer markers selection using network-based Cox regression: A methodological and computational practice. Frontiers in physiology, 7, 208.
