@@ -1,0 +1,11 @@
+Package: COSMONET
+Type: Package
+Title: Screening-network methods for survival analysis
+Version: 0.1.0
+Author: Antonella Iuliano
+Maintainer: Antonella Iuliano <a.iuliano@na.iac.cnr.it>
+Description: We propose a novel multistage computational-statistical procedure combining screening techniques and network methods able to identify prognostic gene signatures and predict patient survival outcome.
+License: GPL-2
+Encoding: UTF-8
+Imports: Coxnet, ADMMnet, glmnet, Survival, MANCIE, and RCytoscape
+VignetteBuilder: knitr, rmarkdown
